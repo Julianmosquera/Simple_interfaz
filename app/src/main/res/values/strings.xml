@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple_interfaz</string>
+    <string name="edit_message">holi</string>
+    <string name="button_send">Pulsar</string>
+</resources>
